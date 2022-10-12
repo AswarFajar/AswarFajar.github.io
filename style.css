@@ -1,0 +1,50 @@
+    @font-face {
+        font-family: 'surel';
+        src: url('/a_asian_ninja/aAsianNinja.otf');
+    }
+
+    @font-face {
+        font-family: 'aswar';
+        src: url('/aa/Gloomy\ Things.otf');
+    }
+    
+.putih{
+    color: rgb(255, 255, 255);
+}
+
+
+    /*
+    #hero {
+        background-color: rgb(204, 205, 199);
+    }
+   
+    
+    #hero h1{
+        font-family: 'surel';
+    }
+    #hero h2{
+        font-family: 'aswar';
+        color: rgb(254, 47, 0);
+    }
+    */
+
+    #hero h2{
+        font-size: larger;
+        font-style: oblique;
+    }
+
+    .sosmed a{
+        text-decoration: none;
+        background-color: rgb(20, 173, 233);
+        color: #ffff;
+        padding: 12px 28px ;
+        border-radius: 6px;
+        font-weight: 600;
+        transition: all ease-in-out 0.5s;
+    }
+
+    .sosmed a:hover{
+        background-color: rgb(5, 65, 89);
+        transition: all ease-in-out 0.5s;
+    }
+
